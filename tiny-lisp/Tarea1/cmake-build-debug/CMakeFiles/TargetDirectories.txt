@@ -1,0 +1,3 @@
+C:/Users/magol/CLionProjects/tiny-lisp/Tarea1/cmake-build-debug/CMakeFiles/Tarea1.dir
+C:/Users/magol/CLionProjects/tiny-lisp/Tarea1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magol/CLionProjects/tiny-lisp/Tarea1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
